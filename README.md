@@ -5,7 +5,7 @@ You'll find hands-on exercises in this repository, so you can build a Data Portf
 
 ## First 30 Days
 
-Goal: Data Engineering & Data Science Fundamentals
+** Goal: Data Engineering & Data Science Fundamentals
 
 ## Next 30 Days
 
