@@ -1,7 +1,8 @@
 # Data Mastery in 90 Days
 
-The goal of this repository is to propose structured plan to master data engineering and AI in 90 days.
-You'll find hands-on exercises in this repository, so you can build a Data Portfolio for yourself, as you go through the process!
+**Goal**: Build technical depth in data engineering, data science, and GenAI through hands-on projects while creating a compelling portfolio demonstrating practical expertise.
+
+**Time Commitment**: 15-20 hours/week (3-4 hours on weekdays, 6-8 hours on weekends)
 
 ## First 30 Days
 
