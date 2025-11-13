@@ -6,7 +6,7 @@
 
 ## First 30 Days
 
-** Goal: Learn Data Engineering & Data Science Fundamentals
+> Goal: Learn Data Engineering & Data Science Fundamentals
 
 ### Week 1-2: Core Infrastructure & Tools
 
@@ -54,8 +54,8 @@
 
 ## Next 30 Days
 
-Goal: Data Analytics & MLOps
+> Goal: Data Analytics & MLOps
 
 ## Last 90 Days
 
-Goal: Generative AI Apps
+> Goal: Generative AI Apps
