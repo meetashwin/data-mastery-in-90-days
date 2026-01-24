@@ -12,7 +12,7 @@
 
 **Learning Objectives:**
 
-- Master Python for data engineering
+- Master Python for data engineering (test)
 - Understand cloud platforms (AWS/Azure/GCP)
 - Learn containerization and orchestration basics
 
